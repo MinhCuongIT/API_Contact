@@ -1,0 +1,14 @@
+flask<1.0
+gunicorn
+flask-appconfig>=0.10
+jwt
+pyJWT
+pymssql<3.0
+flask-bootstrap
+flask-nav
+flask-debug
+flask-wtf
+flask-sqlalchemy
+flask-login
+requests
+pillow
